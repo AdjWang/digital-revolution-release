@@ -6,8 +6,7 @@ body {
 #unity-container {
     position: absolute;
     margin: auto;
-    width: 1224px;
-    height: 2700px;
+    height: 100vh;
 }
 
 #unity-canvas {
