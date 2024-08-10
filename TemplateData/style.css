@@ -6,6 +6,7 @@ body {
 #unity-container {
     position: absolute;
     margin: auto;
+    aspect-ratio: 0.4533;
     height: 100vh;
 }
 
